@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Audi", "color": "white" },
+  { "id": 2, "name": "Ferrari", "color": "red" },
+  { "id": 3, "name": "Lada", "color": "brown" },
+  { "id": 4, "name": "Trabant", "color": "blue" },
+  { "id": 5, "name": "Mercedes", "color": "white" },
+  { "id": 6, "name": "Bmw", "color": "gray" },
+  { "id": 7, "name": "Citroen", "color": "yellow" },
+  { "id": 8, "name": "Ford", "color": "green" }
+]
